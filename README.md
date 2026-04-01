@@ -19,7 +19,7 @@ How can user click behavior in two-column search interfaces be modeled, and do t
 - Comparison with classical click models for single ranked lists  
 
 ## Repository Structure
--
+- Exploratory Data Analysis in EDA.ipynb
 -
 
 ## Dataset
@@ -27,3 +27,6 @@ This project uses the Qilin dataset for multimodal information retrieval and use
 
 ## Goal
 The goal is to determine whether a two-dimensional representation of result placement better captures user examination behavior in two-column interfaces and improves click prediction.
+
+## Installation
+pip install -r requirements.txt
