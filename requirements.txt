@@ -1,0 +1,7 @@
+pandas
+matplotlib
+statsmodels
+datasets
+seaborn
+jupyter
+numpy
