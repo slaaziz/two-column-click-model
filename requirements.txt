@@ -1,7 +1,9 @@
 pandas
+numpy
+torch
+scipy
 matplotlib
+seaborn
 statsmodels
 datasets
-seaborn
 jupyter
-numpy
